@@ -1,26 +1,20 @@
-<img align="right" src="https://profile-counter.glitch.me/denzonn/count.svg?"  />
+![MasterHead](https://toghr.com/wp-content/uploads/2020/05/fi-4-mei-2020-1.jpg)
 
-###
+<h1 align="center">Hi 👋, I'm Denson Patibang</h1>
+<h3 align="center">I'm enthusias as FrontEnd Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://www.genesecloud.academy/wp-content/uploads/2021/06/Programming-amico.png" />
 
-<h2 align="left">Hi 👋, I'm Denson Patibang</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=denzonn&label=Profile%20views&color=0e75b6&style=flat" alt="denzonn" /> </p>
 
-###
+- 🌱 I’m currently learning **React TS, Vue JS**
 
-<br clear="both">
+- 👨‍💻 All of my projects are available at [https://portoden.netlify.app/](https://portoden.netlify.app/)
 
-<h3 align="left">I'm enthusias as FrontEnd Developer</h3>
+- 💬 Ask me about **React, Vue**
 
-###
+- 📫 How to reach me **denson753@gmail.com**
 
-<img align="right" height="200" src="https://camo.githubusercontent.com/008222e5fc6b2bbd26f220a1b7cdbbf2788bfd0c02f3738211adef5ac5576afb/68747470733a2f2f7777772e67656e657365636c6f75642e61636164656d792f77702d636f6e74656e742f75706c6f6164732f323032312f30362f50726f6772616d6d696e672d616d69636f2e706e67"  />
-
-###
-
-<p align="left">- 🌱 I’m currently learning **React TS, Vue JS**<br><br>- 👨‍💻 All of my projects are available at [https://portoden.netlify.app/](https://portoden.netlify.app/)<br><br>- 💬 Ask me about **React, Vue**<br><br>- 📫 How to reach me **denson753@gmail.com**</p>
-
-###
-
-<br clear="both">
+- ⚡ Fun fact **I'm not just a frontend developer; I'm also a 'pixel perfectionist'! I get an adrenaline rush from crafting web interfaces that are not only stunning but also meticulously responsive. It's like solving a beautiful puzzle where every element fits perfectly on any screen size. 🎨💻 #ResponsiveDesignEnthusiast**
 
 <h3 align="center">💻 Tech Stack:</h3>
 
@@ -56,10 +50,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="50" alt="laravel logo"  />
 </div>
 
-###
-
-<br clear="both">
-
 <h3 align="center">🌐 Socials:</h3>
 
 ###
@@ -77,24 +67,16 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=denzonn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=denzonn&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=denzonn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="center">📊 Github Stats:</h3>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=denzonn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=denzonn&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denzonn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=denzonn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=denzonn&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/denzonn/denzonn/output/snake.svg" alt="Snake animation" />
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
