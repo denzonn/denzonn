@@ -16,9 +16,7 @@
 
 - ⚡ Fun fact **I'm not just a frontend developer; I'm also a 'pixel perfectionist'! I get an adrenaline rush from crafting web interfaces that are not only stunning but also meticulously responsive. It's like solving a beautiful puzzle where every element fits perfectly on any screen size. 🎨💻 #ResponsiveDesignEnthusiast**
 
-<br clear="both">
-
-<h2 align="center">💻 Tech Stack:</h2>
+<h3 align="center">💻 Tech Stack:</h3>
 
 ###
 
@@ -52,7 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="50" alt="laravel logo"  />
 </div>
 
-<h2 align="center">🌐 Socials:</h2>
+<h3 align="center">🌐 Socials:</h3>
 
 ###
 
@@ -70,13 +68,12 @@
 </div>
 
 
-<h2 align="center">📊 Tech Stack:</h2>
-##
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=denzonn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=denzonn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=denzonn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=denzonn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
