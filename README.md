@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I'm not just a frontend developer; I'm also a 'pixel perfectionist'! I get an adrenaline rush from crafting web interfaces that are not only stunning but also meticulously responsive. It's like solving a beautiful puzzle where every element fits perfectly on any screen size. 🎨💻 #ResponsiveDesignEnthusiast**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="margin-top: 50px;">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/densonpatibang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="densonpatibang" height="30" width="40" /></a>
 <a href="https://instagram.com/denzon_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="denzon_" height="30" width="40" /></a>
