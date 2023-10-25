@@ -16,7 +16,8 @@
 
 - ⚡ Fun fact **I'm not just a frontend developer; I'm also a 'pixel perfectionist'! I get an adrenaline rush from crafting web interfaces that are not only stunning but also meticulously responsive. It's like solving a beautiful puzzle where every element fits perfectly on any screen size. 🎨💻 #ResponsiveDesignEnthusiast**
 
-<h3 align="center">💻 Tech Stack:</h3>
+<br clear="both">
+<h2 align="center">💻 Tech Stack:</h2>
 
 ###
 
@@ -50,7 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="50" alt="laravel logo"  />
 </div>
 
-<h3 align="center">🌐 Socials:</h3>
+<h2 align="center">🌐 Socials:</h2>
 
 ###
 
@@ -68,15 +69,11 @@
 </div>
 
 
-# 📊 GitHub Stats:
+<h2 align="center">📊 GitHub Stats:</h2>
+# 
 ![](https://github-readme-stats.vercel.app/api?username=denzonn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=denzonn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=denzonn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=denzonn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=denzonn&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
