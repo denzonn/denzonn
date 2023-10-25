@@ -18,7 +18,7 @@
 
 <br clear="both">
 
-<h3 align="center">💻 Tech Stack:</h3>
+<h2 align="center">💻 Tech Stack:</h2>
 
 ###
 
@@ -52,7 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="50" alt="laravel logo"  />
 </div>
 
-<h1 align="center">🌐 Socials:</h1>
+<h2 align="center">🌐 Socials:</h2>
 
 ###
 
@@ -70,12 +70,12 @@
 </div>
 
 
-# 📊 GitHub Stats:
+<h2 align="center">📊 Tech Stack:</h2>
 ![](https://github-readme-stats.vercel.app/api?username=denzonn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=denzonn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=denzonn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+<h2 align="center">🏆 GitHub Trophies</h2>
 ![](https://github-profile-trophy.vercel.app/?username=denzonn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
