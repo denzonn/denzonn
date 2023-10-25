@@ -52,7 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="50" alt="laravel logo"  />
 </div>
 
-<h3 align="center">🌐 Socials:</h3>
+<h1 align="center">🌐 Socials:</h1>
 
 ###
 
