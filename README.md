@@ -1,4 +1,4 @@
-[![MasterHead](https://toghr.com/wp-content/uploads/2020/05/fi-4-mei-2020-1.jpg)
+![MasterHead](https://toghr.com/wp-content/uploads/2020/05/fi-4-mei-2020-1.jpg)
 
 <h1 align="center">Hi 👋, I'm Denson Patibang</h1>
 <h3 align="center">I'm enthusias as FrontEnd Developer</h3>
