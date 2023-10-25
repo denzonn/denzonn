@@ -16,6 +16,8 @@
 
 - ⚡ Fun fact **I'm not just a frontend developer; I'm also a 'pixel perfectionist'! I get an adrenaline rush from crafting web interfaces that are not only stunning but also meticulously responsive. It's like solving a beautiful puzzle where every element fits perfectly on any screen size. 🎨💻 #ResponsiveDesignEnthusiast**
 
+<br clear="both">
+
 <h3 align="center">💻 Tech Stack:</h3>
 
 ###
