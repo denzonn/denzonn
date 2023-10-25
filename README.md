@@ -69,11 +69,20 @@
 </div>
 
 
-<h2 align="center">📊 GitHub Stats:</h2>
-# 
-![](https://github-readme-stats.vercel.app/api?username=denzonn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=denzonn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=denzonn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br clear="both">
+
+<h2 align="center">📊 Github Stats:</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=denzonn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=denzonn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=denzonn&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
